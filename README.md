@@ -42,7 +42,9 @@ Generate common hash digests for a string input.
 ```bash
 python3 hashCreator.py
 ```
-💡 Example
+---
+
+## 💡 Example
 
 Enter String: admin
 
@@ -58,11 +60,15 @@ d033e22ae348aeb5660fc2140aec35850c4da997
 <<<<<<<512>>>>>>>
 c9adeab699ff04b8f47c8396...
 
-🔓 2. Hash Cracker – hashCracker.py
+---
+
+## 🔓 2. Hash Cracker – hashCracker.py
 
 Try to crack an MD5 hash by brute-forcing with a wordlist.
 
-▶️ Usage
+---
+
+## ▶️ Usage
 
 python3 hashCracker.py
 
@@ -71,28 +77,38 @@ python3 hashCracker.py
 Enter target hash: 21232f297a57a5a743894a0e4a801fc3
 Enter wordlist path: wordlist.txt
 
-✅ Output
+---
+
+## ✅ Output
 
 [?] Trying: password
 [?] Trying: letmein
 [?] Trying: admin
 [+] Password Found: admin
 
-⚙️ Requirements
+---
+
+## ⚙️ Requirements
 
 pip install -r requirements.txt
 
-⚠️ Disclaimer
+---
+
+## ⚠️ Disclaimer
 
 This tool is created for educational and ethical use only.
 Do not use it on systems you do not own or do not have permission to test.
 Unauthorized use may be illegal.
 
-📄 License
+---
+
+## 📄 License
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Alper Alexandru Ozturk
 📧 alperoztvrk@gmail.com
