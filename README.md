@@ -41,7 +41,7 @@ Generate common hash digests for a string input.
 
 ```bash
 python3 hashCreator.py
-
+```
 💡 Example
 
 Enter String: admin
